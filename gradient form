@@ -71,7 +71,7 @@
     
     .login-input:active,
     .login-input:focus,
-    .login-input:hover,
+    .login-input:hover
     {
     outline: none;
     border-bottom-color: #6A679E;
@@ -98,7 +98,7 @@
     
     .login-submit:active,
     .login-submit:focus,
-    .login-submit:hover,
+    .login-submit:hover
     {
     border-color: #6A679E;
     outline: none;
